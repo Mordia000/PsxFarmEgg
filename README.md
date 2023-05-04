@@ -6,7 +6,7 @@ _G.LoadingScreen = true
 _G.AntiLeave = true
 _G.MouseLock = true 
 
-_G.ScriptName = "KubaHub"
+_G.ScriptName = "JacobHub"
 _G.FirstText = "Script Preparing"
 _G.SecondText = "Script Loading..."
 _G.ThirdText = "Almost Done..."
